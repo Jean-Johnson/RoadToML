@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 #user defiend
-Datasets/
-!*/Datasets/.gitkeep
+Datasets/*
+!Datasets/.gitkeep
